@@ -1,0 +1,9 @@
+
+y
+java:S1488""^Immediately return this expression instead of assigning it to the temporary variable "laiKep".(Ç²Î©üÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(úö¢ı
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑØÏ¸
+E	java:S106"+Replace this use of System.out by a logger.(²èéöşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(»¸ûÄùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÊïŒäşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¡ô°Á

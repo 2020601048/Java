@@ -1,0 +1,21 @@
+
+n	java:S135 "YReduce the total number of break and continue statements in this loop to use at most one.(öÊ²¹
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(şÃ†ïüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑØÏ¸
+@
+java:S1659
+"*Declare "secondNumber" on a separate line.(î…–—
+@	java:S106"+Replace this use of System.out by a logger.(âıâõ
+@	java:S106"+Replace this use of System.out by a logger.(âıâõ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(³¯âñ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(˜Èè’ûÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ÇŞî8Ùå„ìĞ1
+?
+java:S1481")Remove this unused "flag" local variable.(Ö°š·
+E	java:S106!"+Replace this use of System.out by a logger.(Í±–Íøÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(–ô€¹úÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(Ëêçÿÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ôöÌ›øÿÿÿÿ
+?	java:S106."+Replace this use of System.out by a logger.(Ø„ß
