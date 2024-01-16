@@ -1,7 +1,7 @@
 package Loop;
 
 public class Bai1 {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		int number = 4;
 		int accumulateNumbers = 1;
 
