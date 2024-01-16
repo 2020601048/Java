@@ -5,7 +5,7 @@ public class bai1 {
 
 		int a = 9;
 		int b = 7;
-		int c = 5;
+		int c =15;
 		int max = a;
 
 		if (max < b) {
