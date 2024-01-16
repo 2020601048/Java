@@ -2,7 +2,7 @@ package Loop;
 
 public class Bai1 {
 	public static void main(String[] args) {
-		int number = 3;
+		int number = 4;
 		int accumulateNumbers = 1;
 
 		for (int i = 1; i <= number; i++) {
